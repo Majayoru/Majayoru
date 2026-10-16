@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2d333b&height=180&section=header&text=JuJuMalon&fontSize=54&fontColor=e6edf3&fontAlignY=45&desc=HRD%20x%20DEVELOPER&descAlignY=72&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2d333b&height=180&section=header&text=Majayoru&fontSize=54&fontColor=e6edf3&fontAlignY=45&desc=HRD%20x%20DEVELOPER&descAlignY=72&descSize=16&animation=fadeIn" width="100%"/>
 
 <img src="https://img.shields.io/badge/Daejeon-KR-30363d?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/role-HRD%20x%20Dev-30363d?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/status-online-30363d?style=flat-square&labelColor=161b22"/>
-<img src="https://komarev.com/ghpvc/?username=kangxoals-debug&label=visitors&color=30363d&style=flat-square&labelColor=161b22"/>
+<img src="https://komarev.com/ghpvc/?username=Majayoru&label=visitors&color=30363d&style=flat-square&labelColor=161b22"/>
 
 <br/><br/>
 
@@ -18,7 +18,7 @@
 ### `> whoami`
 
 ```yaml
-nickname  : JuJuMalon
+nickname  : Majayoru
 role      : HRD Manager  x  Developer in Progress
 base      : Daejeon, South Korea
 mission   : 교육 운영 현장의 경험을 기술로 연결합니다
@@ -89,9 +89,9 @@ PID   STATUS      TASK
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kangxoals-debug&show_icons=true&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=8b949e&text_color=c9d1d9&ring_color=8b949e&count_private=true&custom_title=JuJuMalon's%20GitHub%20Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Majayoru&show_icons=true&hide_border=true&bg_color=161b22&title_color=e6edf3&icon_color=8b949e&text_color=c9d1d9&ring_color=8b949e&count_private=true&custom_title=Majayoru's%20GitHub%20Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=kangxoals-debug&hide_border=true&background=161b22&ring=8b949e&fire=adbac7&currStreakLabel=e6edf3&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&stroke=30363d"/>
+<img src="https://streak-stats.demolab.com?user=Majayoru&hide_border=true&background=161b22&ring=8b949e&fire=adbac7&currStreakLabel=e6edf3&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&stroke=30363d"/>
 
 </div>
 
@@ -102,8 +102,8 @@ PID   STATUS      TASK
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kangxoals-debug/kangxoals-debug/output/snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/kangxoals-debug/kangxoals-debug/output/snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majayoru/Majayoru/output/snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Majayoru/Majayoru/output/snake.svg"/>
 </picture>
 
 </div>
@@ -113,7 +113,7 @@ PID   STATUS      TASK
 <div align="center">
 
 ```text
-> session closed. thanks for visiting.  // JuJuMalon
+> session closed. thanks for visiting.  // Majayoru
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d333b,100:0d1117&height=40&section=footer" width="100%"/>
