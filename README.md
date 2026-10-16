@@ -63,11 +63,8 @@ focus     : [ 국비훈련 운영, KDT/AI 과정, 업무 자동화, 웹 개발 ]
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=kangxoals-debug&show_icons=true&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangxoals-debug&layout=compact&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=C9D1D9"/>
 
 <img src="https://streak-stats.demolab.com?user=kangxoals-debug&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&stroke=1F2937"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kangxoals-debug&bg_color=000000&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&area_color=00F0FF&hide_border=true"/>
 
 </div>
 
